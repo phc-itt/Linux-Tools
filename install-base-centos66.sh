@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huong dan: Go lenh curl o duoi trong terminal ssh
-# curl https://raw.githubusercontent.com/kimthangatm/linux-tools/master/install-base-centos66.sh | sh
+# curl https://raw.githubusercontent.com/phc-itt/Linux-Tools/master/install-base-centos66.sh | sh
 dbUsername="postgres"
 dbPassword="123456"
 
